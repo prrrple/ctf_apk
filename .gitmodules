@@ -1,0 +1,3 @@
+[submodule "tools/Apktool"]
+	path = tools/Apktool
+	url = https://github.com/iBotPeaches/Apktool
